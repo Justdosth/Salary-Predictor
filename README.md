@@ -41,6 +41,9 @@ SalarySmart is a machine learning web application developed using Python and Str
 2. Enter your country, education level, and years of professional coding experience.
 3. Click on the "Predict Salary" button to view the predicted yearly salary.
 
+## Dataset
+The data used in this project comes from the Stack Overflow Developer Survey 2020. This survey provides comprehensive insights into the global developer community, covering various aspects such as employment, education, coding experience, and compensation.
+
 ## Data Preparation
 
 The data used in this project comes from the Stack Overflow Developer Survey. The steps involved in data preparation include:
